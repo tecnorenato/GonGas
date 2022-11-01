@@ -1,0 +1,6 @@
+preto_claro = '#4F4F4F'
+verde_médio = '#00FA9A'
+vermelho_salmão = '#FA8072'
+azul_seleção = '#F0FFFF'
+verde_limão = '#00FF00'
+branco_gelo = '#EDEBE6'
